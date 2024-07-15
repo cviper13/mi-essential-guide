@@ -134,3 +134,5 @@ Each type of tire offers distinct advantages and disadvantages:
 - Causes damage to bearings and the folding mechanism
 - Causes discomfort to the rider from shaking and vibrations
 ```
+
+{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
