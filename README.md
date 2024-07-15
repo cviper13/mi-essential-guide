@@ -1,4 +1,4 @@
-# Mi Essential Modding Guide
+# Mi Essential Scooter Modding Guide
 
 <p align="center">
   Join the community!
