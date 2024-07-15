@@ -57,6 +57,9 @@ Recommended tyre pressure settings based on load:
 | 100 kg+   | 55-65          |
 
 > [!WARNING]
+> Please ensure to monitor tire pressure regularly if you use tubed tires. Operating with insufficient pressure may lead to damage of the inner tube.
+
+> [!WARNING]
 > Caution is advised for riders above 100 kg due to increased risk of puncture.
 
 > [!NOTE]
