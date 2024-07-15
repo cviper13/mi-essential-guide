@@ -11,17 +11,23 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [General Information](#general-information)
-  - [Firmware](#firmware)
-  - [Battery](#battery)
-  - [Motor](#motor)
-  - [Tires](#tires)
+  * [Firmware](#firmware)
+  * [Battery](#battery)
+  * [Motor](#motor)
+  * [Tires](#tires)
 - [Modding](#modding)
-  - [Firmware](#firmware-1)
-    - [Configuration](#configuration)
-  - [Battery](#battery-1)
-  - [Motor](#motor-1)
-  - [Tires](#tires-1)
+  * [Firmware](#firmware-1)
+    + [Configuration](#configuration)
+  * [Battery](#battery-1)
+  * [Motor](#motor-1)
+  * [Tires](#tires-1)
+    + [Tubeless](#tubeless)
+    + [Tubed](#tubed)
+    + [Solid](#solid)
+- [How to Contribute](#how-to-contribute)
+  * [TL;DR](#tldr)
 
 ## General Information
 
@@ -133,3 +139,55 @@ Each type of tire offers distinct advantages and disadvantages:
 - Causes damage to bearings and the folding mechanism
 - Causes discomfort to the rider from shaking and vibrations
 ```
+
+## How to Contribute
+
+We welcome contributions from the community! To contribute to this project, follow these steps:
+
+1. **Fork the Repository**
+   - Click on the "Fork" button on the top right corner of the repository page. This creates a copy of the repository under your GitHub account.
+
+2. **Clone Your Fork**
+   - Clone the repository to your local machine using Git. Replace `<your-username>` with your GitHub username:
+     ```bash
+     git clone https://github.com/<your-username>/mi-essential-guide.git
+     cd mi-essential-guide
+     ```
+
+3. **Create a New Branch Based on 'early'**
+   - Create a new branch based on the 'early' branch for your contribution. Replace `<branch-name>` with a descriptive name for your branch:
+     ```bash
+     git checkout -b <branch-name> early
+     ```
+
+4. **Make Changes**
+   - Make your desired changes to the project code or documentation on your local machine.
+
+5. **Commit Your Changes**
+   - Commit the changes to your branch:
+     ```bash
+     git add .
+     git commit -m "Clear and descriptive commit message explaining your changes"
+     ```
+
+6. **Push Changes**
+   - Push your changes to your forked repository on GitHub:
+     ```bash
+     git push origin <branch-name>
+     ```
+
+7. **Open a Pull Request**
+   - Go to the original repository on GitHub and you should see a "Compare & pull request" button for your new branch.
+   - Click on the button to open a pull request (PR) against the 'early' branch.
+   - Provide a clear title and description for your PR outlining what you have done.
+
+8. **Discuss and Iterate**
+   - Participate in the discussion on your PR if any feedback or changes are requested.
+   - Make changes to your branch as necessary by adding new commits. Repeat steps 5-7 until your PR is merged.
+
+### TL;DR
+
+- Always base your work on the `early` branch, not `main`.
+- Fork the repository, clone it locally, and create a new branch from `early`.
+- Make your changes, commit them, and push to your fork.
+- Open a pull request (PR) against the `early` branch in the original repository.
