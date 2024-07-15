@@ -56,17 +56,17 @@ Recommended tire pressure settings based on load:
 | 90-100 kg | 50-60          |
 | 100 kg+   | 55-65          |
 
-> ##### WARNING
->
-> Please ensure to monitor tire pressure regularly if you use tubed tires. Operating with insufficient pressure may lead to damage of the inner tube.
+{% alert warning %}
+Please ensure to monitor tire pressure regularly if you use tubed tires. Operating with insufficient pressure may lead to damage of the inner tube.
+{% endalert %}
 
-> ##### WARNING
->
-> Caution is advised for riders above 100 kg due to increased risk of puncture.
+{% alert warning %}
+Caution is advised for riders above 100 kg due to increased risk of puncture.
+{% endalert %}
 
-> ##### NOTE
-> 
-> Tires should be inflated to 50 psi when used under default conditions.
+{% alert note %}
+Tires should be inflated to 50 psi when used under default conditions.
+{% endalert %}
 
 ## Modding
 
@@ -90,13 +90,13 @@ To optimize performance with SHFW:
 
 3. Under Motor Settings, select 20 or 24 kHz.
 
-> ##### NOTE
-> 
-> These settings are recommended by [@lekrsu](https://github.com/lekrsu). Refer to the [SHFW Walkthrough](https://github.com/lekrsu/shfw-walkthrough) for detailed usage instructions.
+{% alert note %}
+These settings are recommended by [@lekrsu](https://github.com/lekrsu). Refer to the [SHFW Walkthrough](https://github.com/lekrsu/shfw-walkthrough) for detailed usage instructions.
+{% endalert %}
 
-> ##### Danger
-> 
-> Drawing current at or near the rated limits may increase the temperature of the battery pack. It is advisable to monitor the temperature.
+{% alert caution %}
+Drawing current at or near the rated limits may increase the temperature of the battery pack. It is advisable to monitor the temperature.
+{% endalert %}
 
 ### Battery
 
