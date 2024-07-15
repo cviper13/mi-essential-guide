@@ -128,4 +128,6 @@ Each type of tyre offers distinct advantages and disadvantages:
 + Available in various colors
 - Difficult installation
 - Not ideal for high speeds
+- Causes damage to bearings and the folding mechanism
+- Causes discomfort to the rider from shaking and vibrations
 ```
