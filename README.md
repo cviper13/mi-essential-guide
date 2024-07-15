@@ -1,4 +1,4 @@
-
+# Mi Essential Modding Guide
 
 <p align="center">
   Join the community!
