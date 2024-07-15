@@ -91,7 +91,7 @@ To optimize performance with SHFW:
 > These settings are recommended by [@lekrsu](https://github.com/lekrsu). Refer to the [SHFW Walkthrough](https://github.com/lekrsu/shfw-walkthrough) for detailed usage instructions.
 
 > [!CAUTION] 
-> Each cell is rated for a maximum of 10A, totaling 20A maximum output. Using more than 15A may cause the battery to overheat. For speeds up to 40 km/h without hardware modifications and for drivers up to 50 kg, consider using 18A, ensuring careful monitoring to prevent overheating.
+> Drawing current at or near the rated limits may increase the temperature of the battery pack. It is advisable to monitor the temperature.
 
 ### Battery
 
