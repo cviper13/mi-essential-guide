@@ -51,10 +51,9 @@ Recommended tire pressure settings based on load:
 
 | Load      | Pressure (psi) |
 |-----------|----------------|
-| 50-70 kg  | 45-50          |
-| 70-90 kg  | 45-55          |
-| 90-100 kg | 50-60          |
-| 100 kg+   | 55-65          |
+| 50-70 kg  | 40-50          |
+| 70-90 kg  | 45-50          |
+| 90+ kg    | 50             |
 
 > [!WARNING]
 > Please ensure to monitor tire pressure regularly if you use tubed tires. Operating with insufficient pressure may lead to damage of the inner tube.
@@ -69,7 +68,7 @@ Recommended tire pressure settings based on load:
 
 ### Firmware
 
-Currently, the Essential supports SHFW (developed by the same team behind CFW), which can be installed using the ScooterHacking Utility (SHUT) available for Android devices. For scooters with DRV versions above 173, a DRV downgrade via SHUT or using an ST-LINK/V2 device for reprogramming with SHFW (see [Reflasher](https://www.scooterhacking.org/forum/viewtopic.php?t=676)) may be necessary.
+The Essential currently supports SHFW, developed by the team behind CFW. Installation of SHFW is facilitated through the ScooterHacking Utility (SHUT), available for Android devices. For scooters equipped with BLE versions 1.5.5 and above, reprogramming with SHFW may necessitate the use of an ST-LINK/V2 device (refer to the [Reflasher](https://www.scooterhacking.org/forum/viewtopic.php?t=676) for detailed instructions). In cases where the firmware version of the DRV is incompatible with flashing, users are advised to attempt a DRV downgrade using the Scooter Hacking Utility (SHUT).
 
 #### Configuration
 
