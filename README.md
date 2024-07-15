@@ -37,7 +37,7 @@ The Essential's firmware restricts speeds as follows:
 
 ### Battery
 
-The Essential features a 10S2P battery running at 36V with 250W nominal power (peak 500W). With the original firmware, it provides approximately 12 km of range, although Xiaomi claims up to 20 km under ideal conditions.
+The Essential features a 10S2P battery running at 36V with 250W nominal power (peak 500W). With the original firmware, it provides approximately 8 to 12 km of range, although Xiaomi claims up to 20 km under ideal conditions.
 
 ### Motor
 
