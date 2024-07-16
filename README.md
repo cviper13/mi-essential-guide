@@ -154,10 +154,10 @@ We welcome contributions from the community! To contribute to this project, foll
      cd mi-essential-guide
      ```
 
-3. **Create a New Branch Based on 'early'**
-   - Create a new branch based on the 'early' branch for your contribution. Replace `<branch-name>` with a descriptive name for your branch:
+3. **Create a New Branch**
+   - Create a new branch for your contribution. Replace `<branch-name>` with a descriptive name for your branch:
      ```bash
-     git checkout -b <branch-name> early
+     git checkout -b <branch-name>
      ```
 
 4. **Make Changes**
@@ -178,7 +178,7 @@ We welcome contributions from the community! To contribute to this project, foll
 
 7. **Open a Pull Request**
    - Go to the original repository on GitHub and you should see a "Compare & pull request" button for your new branch.
-   - Click on the button to open a pull request (PR) against the 'early' branch.
+   - Click on the button to open a pull request (PR) against the 'main' branch.
    - Provide a clear title and description for your PR outlining what you have done.
 
 8. **Discuss and Iterate**
@@ -187,7 +187,6 @@ We welcome contributions from the community! To contribute to this project, foll
 
 ### TL;DR
 
-- Always base your work on the `early` branch, not `main`.
-- Fork the repository, clone it locally, and create a new branch from `early`.
+- Fork the repository, clone it locally, and create a new branch.
 - Make your changes, commit them, and push to your fork.
-- Open a pull request (PR) against the `early` branch in the original repository.
+- Open a pull request (PR) against the `main` branch in the original repository.
