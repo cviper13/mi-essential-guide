@@ -26,6 +26,7 @@
     + [Tubeless](#tubeless)
     + [Tubed](#tubed)
     + [Solid](#solid)
+- [Accessories](#accessories)
 - [How to Contribute](#how-to-contribute)
   * [TL;DR](#tldr)
 
