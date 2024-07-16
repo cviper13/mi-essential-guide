@@ -16,7 +16,7 @@ This section covers accessories exclusively for Mi Essential Scooter. For the ma
 | Name       | Image                                                                                             | Link                                                | Notes                        |
 | ---------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------------- |
 | Floodlight | <img src="https://ae01.alicdn.com/kf/S386efee3a347422492b59b13c67a53dbr/n-LED-i-k-i-in-Xiaomi-Ninebot-elektrikli-Scooter-2000mAh-4000mAh-su-ge-irmez.jpg" width="1100" height="auto"> | [AliExpress](https://aliexpress.com/item/1005005940638605.html) | The 2000mAh model features a smaller form factor and emits fewer lumens in contrast to the 1400 lumen 4000mAh version. |
-| X-Tiger Lights | ![Image](https://ae01.alicdn.com/kf/Se6aee9ca754648a490c162df29588813G.jpg_640x640.jpg) | [AliExpress](https://aliexpress.com/item/1005001373121571.htm) | They have many versions and they are good on price/performance ratio. Some models even double-down as a powerbank. |
+| X-Tiger Lights | ![Image](https://ae01.alicdn.com/kf/Se6aee9ca754648a490c162df29588813G.jpg_640x640.jpg) | [AliExpress](https://aliexpress.com/item/1005001373121571.htm) | They have many versions and they are good on price/performance ratio. Some models even double as a powerbank. |
 
 ### Contributing
 
