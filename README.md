@@ -26,6 +26,7 @@
     + [Tubeless](#tubeless)
     + [Tubed](#tubed)
     + [Solid](#solid)
+- [Accessories](#accessories)
 - [How to Contribute](#how-to-contribute)
   * [TL;DR](#tldr)
 
@@ -139,6 +140,10 @@ Each type of tire offers distinct advantages and disadvantages:
 - Causes damage to bearings and the folding mechanism
 - Causes discomfort to the rider from shaking and vibrations
 ```
+
+## Accessories
+
+Given the extensive list of accessories available, they have been detailed on a separate page. Please refer to [this link](https://github.com/cviper13/mi-essential-guide/blob/main/ACCESSORIES.md) to view the full list.
 
 ## How to Contribute
 
