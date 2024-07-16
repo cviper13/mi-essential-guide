@@ -140,6 +140,10 @@ Each type of tire offers distinct advantages and disadvantages:
 - Causes discomfort to the rider from shaking and vibrations
 ```
 
+## Accessories
+
+Given the extensive list of accessories available, they have been detailed on a separate page. Please refer to [this link](https://github.com/cviper13/mi-essential-guide/blob/main/ACCESSORIES.md) to view the full list.
+
 ## How to Contribute
 
 We welcome contributions from the community! To contribute to this project, follow these steps:
