@@ -11,6 +11,12 @@ This section covers accessories exclusively for Mi Essential Scooter. For the ma
 | Fender spacer  | <img src="https://ae01.alicdn.com/kf/Hb36879270a4040e2a8d864e3aaea5f05b/10-in-lastik-lastik-modifikasyon-arac-kiti-M365-PRO-1S-elektrikli-Scooter-arka-tekerlek-amurluk-Spacer.jpg" width="400" height="auto"/> | [AliExpress](https://aliexpress.com/item/1005005877003450.html) | Get the Red/Black A Sets for the product in the photo.      |
 | Fender support | <img src="https://ae01.alicdn.com/kf/S5c8cb974a2f3459f8a49a983fbd611ac8/Arka-amurluk-destek-i-in-Xiaomi-1S-Pro-2-elektrikli-Scooter-amurluk-yedek-tekerlek-braketi-par.jpg" width="400" height="auto"> | [AliExpress](https://aliexpress.com/item/1005005138595355.html) | N/A                              |
 
+#### Tires
+
+| Name                | Image                                                                                                                              | Link                                                                                 | Notes                                                                                                                                          |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 8.5/9.5/10 inch Tires | <img src="https://ae-pic-a1.aliexpress-media.com/kf/S030ac7ef122c40759319a049160d938cE/9-5-2-10-2-8-5-2-in-olmayan-pn-matik-lastik-Tubeless-lastik-tekerlek.jpg" width="400" height="auto"/> | [AliExpress](https://aliexpress.com/item/1005005877076001.html) | Requires fender spacer and fender support (available in the fender accessories tab). Since you're going tubeless, you'll also need a tubeless valve. |
+
 ### Lighting
 
 | Name       | Image                                                                                             | Link                                                | Notes                        |
