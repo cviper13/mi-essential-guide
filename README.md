@@ -108,7 +108,19 @@ Despite its compact size, the Essential can accommodate up to a 10S4P battery wi
 
 ### Motor
 
-> Work in Progress (WIP).
+The Mi Essential scooter is equipped with a brushless DC motor (BLDC) with the following specifications:
+- **Motor Type**: BLDC hub motor
+- **Hall Sensor Count**: 3
+- **Pole Count**: 27
+- **Magnet Width**: 25H
+- **Kv Rating**: 18.55 (RPM per Volt)
+
+![Motor Housing and Inside](https://raw.githubusercontent.com/cviper13/mi-essential-guide/main/photos/J91_20240603_131516.jpg)
+
+![Motor Poles](https://raw.githubusercontent.com/cviper13/mi-essential-guide/main/photos/J91_20240603_150159.jpg)
+
+*Photos by [@purecomedi on GitHub](https://github.com/purecomedi)*
+
 
 #### Motor Frequency
 
