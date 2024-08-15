@@ -22,6 +22,7 @@
     + [Configuration](#configuration)
   * [Battery](#battery-1)
   * [Motor](#motor-1)
+    + [Motor Frequency](#motor-frequency)
   * [Tires](#tires-1)
     + [Tubeless](#tubeless)
     + [Tubed](#tubed)
@@ -36,7 +37,7 @@ The Xiaomi Mi Scooter Essential was released in 2020 alongside the 1S and PRO2 m
 
 ### Firmware
 
-The Essential's firmware restricts speeds as follows:
+The Essential's stock firmware restricts speeds as follows:
 
 - 5 km/h in ECO/WALKING mode
 - 15 km/h in DRIVE mode
@@ -44,7 +45,7 @@ The Essential's firmware restricts speeds as follows:
 
 ### Battery
 
-The Essential features a 10S2P battery running at 36V with 250W nominal power (peak 500W). With the original firmware, it provides approximately 8 to 12 km of range, although Xiaomi claims up to 20 km under ideal conditions.
+The Essential features a 10S2P battery running at 36V. With the original firmware, it provides approximately 8 to 12 km of range, although Xiaomi claims up to 20 km under ideal conditions.
 
 ### Motor
 
@@ -99,6 +100,8 @@ To optimize performance with SHFW:
 > [!CAUTION] 
 > Drawing current at or near the rated limits may increase the temperature of the battery pack. It is advisable to monitor the temperature.
 
+
+
 ### Battery
 
 Despite its compact size, the Essential can accommodate up to a 10S4P battery with relocation of the ESC using power tools, or a 10S3P battery without chassis modification.
@@ -106,6 +109,24 @@ Despite its compact size, the Essential can accommodate up to a 10S4P battery wi
 ### Motor
 
 > Work in Progress (WIP).
+
+#### Motor Frequency
+
+When you **increase** the PWM frequency:
+
+- **Noise**: The motor's operation becomes quieter as the frequency moves out of the audible range, reducing or eliminating the high-pitched whine.
+  
+- **Motor Efficiency and Heat**: At a higher frequency, the current ripple in the motor windings is reduced, leading to smoother current flow and potentially lower motor heating. However, this comes at the cost of increased switching losses in the motor controller due to more frequent switching, which can generate additional heat in the controller.
+
+- **Smoothness of Control**: Increasing the PWM frequency generally improves the smoothness of the motor's response to throttle input, particularly noticeable at lower speeds, where the motor operates more smoothly without the "cogging" effect that can occur with lower frequencies.
+
+When you **decrease** the PWM frequency:
+
+- **Noise**: The motor may produce a noticeable high-pitched whine, as the frequency remains within the range of human hearing, particularly at lower speeds.
+
+- **Motor Efficiency and Heat**: A lower frequency can lead to better efficiency in the motor controller, as the transistors switch less frequently, reducing switching losses. However, the longer duration of each pulse can cause more heat buildup in the motor windings due to less smooth current flow.
+
+- **Smoothness of Control**: With a lower PWM frequency, throttle response might feel less smooth, with a greater chance of motor "cogging," especially when starting or running at low RPMs.
 
 ### Tires
 
